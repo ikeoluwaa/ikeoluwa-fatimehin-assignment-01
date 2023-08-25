@@ -22,7 +22,7 @@ function sumOfNumbersTo(destination) {
     return sum;
 }
 
-
+console.log(sumOfNumbersTo(20))
 
 
  assignment.sumOfNumbersTo = sumOfNumbersTo;
@@ -56,6 +56,9 @@ function countEvenNumbersWithin(destination) {
         arrayOfEvenNumbers
     };
 }
+
+console.log(countEvenNumbersWithin(20))
+
 
  assignment.countEvenNumbersWithin = countEvenNumbersWithin;
 
